@@ -7049,3 +7049,270 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 438.335229 seconds.
+  path: Assets/Scenes/MainScene.unity
+  artifactKey: Guid(f21a7eb94e4ed4e759ffedf1804717cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainScene.unity using Guid(f21a7eb94e4ed4e759ffedf1804717cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c233aeedbb224472e0a865b322cf8f') in 0.005638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.060749 seconds.
+  path: Assets/Scenes/GameOverScene.unity
+  artifactKey: Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOverScene.unity using Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4817d2c60ff69f54b7d8bd37b4c7216b') in 0.001721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 682.463329 seconds.
+  path: Assets/TextMesh Pro/Fonts/Noto_Sans_KR
+  artifactKey: Guid(a6c81665a953f4a54820f468d80029cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/Noto_Sans_KR using Guid(a6c81665a953f4a54820f468d80029cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1030fda7e8eed194ed7392c6784b9ae0') in 0.002485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 69.189922 seconds.
+  path: Assets/TextMesh Pro/Fonts/Noto_Sans_KR/NotoSansKR-VariableFont_wght.ttf
+  artifactKey: Guid(63ce721ffaa95435eaa7d51f42bdf8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/Noto_Sans_KR/NotoSansKR-VariableFont_wght.ttf using Guid(63ce721ffaa95435eaa7d51f42bdf8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cee2854098ffca33f39228bfb4d44aa') in 0.930242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.846667 seconds.
+  path: Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static
+  artifactKey: Guid(d9f86e781fb294d0da0d5c4506582256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static using Guid(d9f86e781fb294d0da0d5c4506582256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33db29714327dbfa7e554a39706c2760') in 0.001595 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.993212 seconds.
+  path: Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-Black.ttf
+  artifactKey: Guid(80b7a80f8c8264972bf20bf496b04ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-Black.ttf using Guid(80b7a80f8c8264972bf20bf496b04ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bee82d39cc872ab6435a1cfee7e136cb') in 0.026087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-SemiBold.ttf
+  artifactKey: Guid(6a282da01872540168523343bd271031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-SemiBold.ttf using Guid(6a282da01872540168523343bd271031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197f2b7ce2e6a8766ac39a68f1bc023a') in 0.017082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-ExtraBold.ttf
+  artifactKey: Guid(b5d0afbad22ae4243a5f518d9ebf276a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-ExtraBold.ttf using Guid(b5d0afbad22ae4243a5f518d9ebf276a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aefa2a5e3a407372f75ce1bba4ed678') in 0.010446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-Bold.ttf
+  artifactKey: Guid(e97c0efa93e214fba9fa99627eaaab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-Bold.ttf using Guid(e97c0efa93e214fba9fa99627eaaab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beadc6fb65900ebb1ab55995eaf104c5') in 0.011017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-Light.ttf
+  artifactKey: Guid(0359d340a44d1478ba98721691833f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-Light.ttf using Guid(0359d340a44d1478ba98721691833f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88e0a08f8d52465187458eec2787c76') in 0.009415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-Medium.ttf
+  artifactKey: Guid(b7c8c538e64284acdb87e4ef2e190714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-Medium.ttf using Guid(b7c8c538e64284acdb87e4ef2e190714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832753eae79fd428b57fd20629325542') in 0.009400 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-Thin.ttf
+  artifactKey: Guid(6229a236a9a854556a62c746113b07dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-Thin.ttf using Guid(6229a236a9a854556a62c746113b07dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a946150ed36f3676ba544860a23b5544') in 0.009403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-Regular.ttf
+  artifactKey: Guid(0f885d8c5e3884ae88b16e7168c809a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-Regular.ttf using Guid(0f885d8c5e3884ae88b16e7168c809a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b21f20136e8c8836ff6915086f73e77') in 0.009793 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-ExtraLight.ttf
+  artifactKey: Guid(ecd25badee0e94e38813bc07fb02c3cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/Noto_Sans_KR/static/NotoSansKR-ExtraLight.ttf using Guid(ecd25badee0e94e38813bc07fb02c3cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8be82e0ea17c7492ba26849f616afc5') in 0.009110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 183.487823 seconds.
+  path: Assets/TextMesh Pro/Fonts/NotoSansKR-Bold SDF.asset
+  artifactKey: Guid(8ba7e9e2e210e4b199f1df8f221ffe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/NotoSansKR-Bold SDF.asset using Guid(8ba7e9e2e210e4b199f1df8f221ffe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '070207dddd9166aebbfcab014e398637') in 0.202594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 144.255733 seconds.
+  path: Assets/TextMesh Pro/Fonts/NotoSansKR-Bold SDF.asset
+  artifactKey: Guid(8ba7e9e2e210e4b199f1df8f221ffe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/NotoSansKR-Bold SDF.asset using Guid(8ba7e9e2e210e4b199f1df8f221ffe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f573513c5b2df0cc119fdc1ba77f37') in 0.131810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 363.438417 seconds.
+  path: Assets/스크린샷 2023-11-04 03.51.11.png
+  artifactKey: Guid(1dfa08a80e050434fbce283a61f0afa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/스크린샷 2023-11-04 03.51.11.png using Guid(1dfa08a80e050434fbce283a61f0afa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '189c2a228131cdf72d527ea9baaebba5') in 0.042507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.952941 seconds.
+  path: Assets/Image.png
+  artifactKey: Guid(1dfa08a80e050434fbce283a61f0afa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Image.png using Guid(1dfa08a80e050434fbce283a61f0afa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f408e0b3a7ca7125cabce142a4c5ee54') in 0.009327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 639.706553 seconds.
+  path: Assets/TextMesh Pro/Fonts/NotoSansKR-Bold SDF.asset
+  artifactKey: Guid(8ba7e9e2e210e4b199f1df8f221ffe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/NotoSansKR-Bold SDF.asset using Guid(8ba7e9e2e210e4b199f1df8f221ffe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524970cff226203d395e69f6073e6f65') in 0.153192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 118.231735 seconds.
+  path: Assets/TextMesh Pro/Fonts/NotoSansKR-Bold SDF.asset
+  artifactKey: Guid(8ba7e9e2e210e4b199f1df8f221ffe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/NotoSansKR-Bold SDF.asset using Guid(8ba7e9e2e210e4b199f1df8f221ffe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd40dea6b8303e86cefdc773e212e20') in 0.111438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 126.966475 seconds.
+  path: Assets/TextMesh Pro/Fonts/NotoSansKR-Bold SDF.asset
+  artifactKey: Guid(8ba7e9e2e210e4b199f1df8f221ffe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/NotoSansKR-Bold SDF.asset using Guid(8ba7e9e2e210e4b199f1df8f221ffe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95248251a5e838d90e31ea60d3c6d6a5') in 0.135844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 94.151231 seconds.
+  path: Assets/Scenes/GameOverScene.unity
+  artifactKey: Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOverScene.unity using Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34e7c3ba4601bcd938e2d45d87f3b7e9') in 0.001647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.094307 seconds.
+  path: Assets/Scenes/GameOverScene.unity
+  artifactKey: Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOverScene.unity using Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c38d44b9ed0a1a25a31d4bf5f9e2b3b') in 0.000984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.448006 seconds.
+  path: Assets/Scenes/GameOverScene 1.unity
+  artifactKey: Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOverScene 1.unity using Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6fd38461ab55051230bf1d72b014d2d') in 0.001140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.879055 seconds.
+  path: Assets/Scenes/ClearScene.unity
+  artifactKey: Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ClearScene.unity using Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb60e91480121054f87a62eb721dddcb') in 0.000671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 120.362361 seconds.
+  path: Assets/Scenes/GameOverScene.unity
+  artifactKey: Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOverScene.unity using Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb63b7e47a82b8545ae5da1613d9dc3a') in 0.002583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.630326 seconds.
+  path: Assets/Scenes/ClearScene.unity
+  artifactKey: Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ClearScene.unity using Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '706137af2f6dd67c6b765a13da06dfcc') in 0.001793 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.012143 seconds.
+  path: Assets/Scenes/GameOverScene.unity
+  artifactKey: Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOverScene.unity using Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd6d1e86c58ef73ced0c88b24f67b8b4') in 0.001956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.098030 seconds.
+  path: Assets/Scenes/ClearScene.unity
+  artifactKey: Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ClearScene.unity using Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8834f5d40d40b307de199d3565eff2') in 0.001869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 146.288951 seconds.
+  path: Assets/Scenes/ClearScene.unity
+  artifactKey: Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ClearScene.unity using Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be40b79f728856b8319d9184d874ec0f') in 0.002095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.717050 seconds.
+  path: Assets/Scenes/ClearScene.unity
+  artifactKey: Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ClearScene.unity using Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21be791df2d07f114a07d2bc714c2b8') in 0.001895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.689568 seconds.
+  path: Assets/Scenes/GameOverScene.unity
+  artifactKey: Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOverScene.unity using Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6153e75223ab1ab00ab09670576e668') in 0.001862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.014499 seconds.
+  path: Assets/Scenes/TitleScene.unity
+  artifactKey: Guid(5125e6131393e479da1f302896f9090d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TitleScene.unity using Guid(5125e6131393e479da1f302896f9090d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c0e9613e0d9ca4ebbafa1f4e6e7fcb8') in 0.001354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 54.455832 seconds.
+  path: Assets/Scenes/GameOverScene.unity
+  artifactKey: Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOverScene.unity using Guid(225c635894f044ad39ce4fd981ca0964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa6dc1c4e72d8af6cc01421e7cc04f9') in 0.001469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.285872 seconds.
+  path: Assets/Scenes/ClearScene.unity
+  artifactKey: Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ClearScene.unity using Guid(9d16c90abe734464e904895eb102a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c459016061351c2a79fc085a54a1420') in 0.002104 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000930 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2023-11-04 04:17:40.270 Unity[25217:67006346] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7feabfff1710 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.429 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2430ms)
+		BeginReloadAssembly (257ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (36ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (93ms)
+		EndReloadAssembly (2096ms)
+			LoadAssemblies (217ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (256ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (1404ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (135ms)
+				ProcessInitializeOnLoadAttributes (1199ms)
+				ProcessInitializeOnLoadMethodAttributes (57ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2185 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 256.3 MB.
+System memory in use after: 256.3 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2912.
+Total: 2.490125 ms (FindLiveObjects: 0.137500 ms CreateObjectMapping: 0.040625 ms MarkObjects: 2.228625 ms  DeleteObjects: 0.082916 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
